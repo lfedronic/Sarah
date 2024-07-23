@@ -1,0 +1,300 @@
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	fine .
+%mor:	adj|fine-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I [?] look [?] for [?] dis [: this] .
+%mor:	pron|I-Prs-Nom-S1 verb|look-Fin-Ind-Pres-S1 adp|for pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	where's other cup ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 adj|other-Pos-S1 noun|cup ?
+%gra:	1|4|ROOT 2|1|COP 3|4|AMOD 4|1|NSUBJ 5|1|PUNCT
+*CHI:	yeah (.) dis [: this] cup .
+%mor:	intj|yeah det|this-Def-Dem noun|cup .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	soap .
+%mor:	noun|soap .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where soap go ?
+%mor:	adv|where noun|soap verb|go-Fin-Ind-Pres-P3 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	I'm find it .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|find-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	soap go .
+%mor:	noun|soap verb|go-Fin-Imp-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	where soap ?
+%mor:	adv|where noun|soap ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	where soap go .
+%mor:	adv|where noun|soap verb|go-Fin-Ind-Pres-P3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	where ?
+%mor:	adv|where ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	right (.) here .
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	here cup .
+%mor:	adv|here noun|cup .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	you did find (.) it .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2 verb|find-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	oh me .
+%mor:	intj|oh pron|I-Prs-Acc-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	where soap .
+%mor:	adv|where noun|soap .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	I yyy find it .
+%mor:	pron|I-Prs-Nom-S1 verb|find-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I caught it .
+%mor:	pron|I-Prs-Nom-S1 verb|catch-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	huh [/] (.) huh .
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where my [?] caught it .
+%mor:	adv|where pron|my-Prs-Gen-S1 verb|catch-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	I got it .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I wash (.) my &~t (.) yyy .
+%mor:	pron|I-Prs-Nom-S1 verb|wash-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I wash my (.) head .
+%mor:	pron|I-Prs-Nom-S1 verb|wash-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|head .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	playing .
+%mor:	verb|play-Ger-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx (.) dis [: this] .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ah sweets .
+%mor:	intj|ah noun|sweet-Plur .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	up a down .
+%mor:	adv|up det|a-Ind-Art adv|down .
+%gra:	1|3|ROOT 2|3|DET 3|1|ADVMOD 4|1|PUNCT
+*CHI:	I get it .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	hey (.) who did that ?
+%mor:	intj|hey pron|who-Rel-S1 verb|do-Fin-Ind-Past-S3 pron|that-Dem-S1 ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	wow (.) I wash my stomach .
+%mor:	intj|wow pron|I-Prs-Nom-S1 verb|wash-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|stomach .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*CHI:	I wash my head again .
+%mor:	pron|I-Prs-Nom-S1 verb|wash-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|head adv|again .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	I caught it twice .
+%mor:	pron|I-Prs-Nom-S1 verb|catch-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adv|twice .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	&-um (.) Tramp .
+%mor:	noun|tramp .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	do like milk .
+%mor:	verb|do-Fin-Imp-S intj|like noun|milk .
+%gra:	1|3|ROOT 2|3|DISCOURSE 3|1|OBJ 4|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	light broken .
+%mor:	noun|light verb|break-Part-Past-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	my daddy fix it .
+%mor:	pron|my-Prs-Gen-S1 noun|daddy verb|fix-Fin-Ind-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	over here .
+%mor:	adv|over adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	where a window xxx (.) a my Daddy ?
+%mor:	adv|where det|a-Ind-Art noun|window adp|of pron|my-Prs-Gen-S1 noun|Daddy ?
+%gra:	1|3|ADVMOD 2|3|DET 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|3|PUNCT
+*CHI:	where Daddy put the window ?
+%mor:	adv|where noun|Daddy verb|put-Fin-Ind-Past-S3 det|the-Def-Art noun|window ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	where Daddy yyy xxx window ?
+%mor:	adv|where noun|Daddy noun|window ?
+%gra:	1|3|ADVMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	dat [: that] window .
+%mor:	det|that-Def-Dem noun|window .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	man a wet window .
+%mor:	noun|man det|a-Ind-Art adj|wet-Pos-S1 noun|window .
+%gra:	1|4|NSUBJ 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	beach .
+%mor:	noun|beach .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	now my get out [= of bath+tub] ?
+%mor:	adv|now pron|my-Prs-Gen-S1 verb|get-Fin-Ind-Pres-S adv|out ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	here ?
+%mor:	adv|here ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I sit down .
+%mor:	pron|I-Prs-Nom-S1 verb|sit-Fin-Ind-Pres-S1 adv|down .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	yeah (.) I get room xxx .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 noun|room .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	I get .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx I gone .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	I found it .
+%mor:	pron|I-Prs-Nom-S1 verb|find-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	yyy a me .
+%mor:	det|a-Ind-Art pron|I-Prs-Acc-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx (.) read [/] (.) read me a Jack a window [?] .
+%mor:	verb|read-Fin-Imp-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|Jack det|a-Ind-Art noun|window .
+%gra:	1|6|ROOT 2|1|IOBJ 3|6|DET 4|6|COMPOUND 5|6|DET 6|1|OBJ 7|1|PUNCT
+*CHI:	read me about the window [?] .
+%mor:	verb|read-Fin-Imp-S pron|I-Prs-Acc-S1 adp|about det|the-Def-Art noun|window .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	I (do)n't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	yyy no soap .
+%mor:	det|no-Def noun|soap .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	hey (.) xxx dis [: this] .
+%mor:	intj|hey pron|this-Dem-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	you hurt my back ?
+%mor:	pron|you-Prs-Nom-S2 verb|hurt-Fin-Ind-Past-S2 pron|my-Prs-Gen-S1 noun|back ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	yeah !
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	boo@b [/] (.) boo@b (.) peekaboo .
+%mor:	noun|boo noun|peekaboo .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	say (.) do it [?] .
+%mor:	verb|say-Fin-Imp-S verb|do-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|1|PARATAXIS 3|2|OBJ 4|1|PUNCT
+*CHI:	put dis [: this] in teapot .
+%mor:	verb|put-Fin-Imp-S pron|this-Dem-S1 adp|in noun|teapot .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+*CHI:	whee .
+%mor:	intj|whee .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dis [: this] fun .
+%mor:	det|this-Def-Dem noun|fun .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	dat [: that] fun ?
+%mor:	det|that-Def-Dem noun|fun ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	I get more my hair .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 adj|more-Cmp-S1 pron|my-Prs-Gen-S1 noun|hair .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|AMOD 4|5|NMOD-POSS 5|2|OBJ 6|2|PUNCT
+*CHI:	a water .
+%mor:	det|a-Ind-Art noun|water .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	I swim .
+%mor:	pron|I-Prs-Nom-S1 verb|swim-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	I how swim .
+%mor:	pron|I-Prs-Nom-S1 adv|how verb|swim-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	I soap my hair .
+%mor:	pron|I-Prs-Nom-S1 verb|soap-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|hair .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	I fall down .
+%mor:	pron|I-Prs-Nom-S1 verb|fall-Fin-Ind-Pres-S1 adv|down .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	what you doing ?
+%mor:	pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|do-Ger-Pres-S ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	what .
+%mor:	pron|what-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I pour you some .
+%mor:	pron|I-Prs-Nom-S1 verb|pour-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 det|some-Def .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*CHI:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	do(n't) like (.) go wet (.) swim ?
+%mor:	aux|do-Fin-Imp-S~part|not intj|like verb|go-Fin-Imp-S adj|wet-Pos-S1 noun|swim ?
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|DISCOURSE 4|6|ROOT 5|6|AMOD 6|4|OBJ 7|4|PUNCT
+*CHI:	xxx you want (.) you xxx swim ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|you-Prs-Acc-S2 noun|swim ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*CHI:	no ?
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	okay (.) I'll [?] swim .
+%mor:	intj|okay pron|I-Prs-Nom-S1~aux|will-Fin-S verb|swim-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*CHI:	<dis [: this] a> [/] (.) dis [: this] a teapot (.) huh .
+%mor:	pron|this-Dem-S1 det|a-Ind-Art noun|teapot intj|huh .
+%gra:	1|3|NSUBJ 2|3|DET 3|4|ROOT 4|3|APPOS 5|3|PUNCT
+*CHI:	dis [: this] a teapot .
+%mor:	pron|this-Dem-S1 det|a-Ind-Art noun|teapot .
+%gra:	1|3|NSUBJ 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx swim .
+%mor:	verb|swim-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I xxx my o(f) [?] my hair .
+%mor:	pron|I-Prs-Nom-S1 pron|my-Prs-Gen-S1 adp|of pron|my-Prs-Gen-S1 noun|hair .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|2|PUNCT
+*CHI:	I get more xxx .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 adj|more-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	a bob(by)_pin .
+%mor:	det|a-Ind-Art noun|bobbypin .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	wan(t) pour some ?
+%mor:	verb|want-Fin-Imp-S verb|pour-Inf-S det|some-Def ?
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	do (a)gain .
+%mor:	verb|do-Fin-Imp-S adv|again .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	<do (a)gain (.) do (a)gain> [/] (.) do &~g (a)gain ?
+%mor:	verb|do-Fin-Imp-S adv|again ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	do (a)gain [/] (.) do (a)gain .
+%mor:	aux|do-Fin-Imp-S verb|do-Fin-Imp-S adv|again .
+%gra:	1|2|AUX 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	I like (.) water .
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 noun|water .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	some yyy (.) xxx .
+%mor:	det|some-Def .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dis [: this] okay ?
+%mor:	det|this-Def-Dem intj|okay ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	<big big> [/] big ?
+%mor:	adj|big-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I playing .
+%mor:	pron|I-Prs-Nom-S1 verb|play-Ger-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	dat [: that] .
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT

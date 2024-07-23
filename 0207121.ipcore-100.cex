@@ -1,0 +1,300 @@
+*CHI:	my pin .
+%mor:	pron|my-Prs-Gen-S1 noun|pin .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	barrette .
+%mor:	noun|barrette .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yyy xxx Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	you know .
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Easter_Bunnys .
+%mor:	noun|EasterBunny-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I love Easter_Bunnys a lot .
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 noun|EasterBunny det|a-Ind-Art noun|lot .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|DET 5|2|OBL-NPMOD 6|2|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Easter my Bunny a coming .
+%mor:	noun|Easter pron|my-Prs-Gen-S1 noun|Bunny det|a-Ind-Art noun|coming .
+%gra:	1|5|ROOT 2|3|NMOD-POSS 3|5|NSUBJ 4|5|DET 5|1|OBJ 6|1|PUNCT
+*CHI:	he love me too (.) too .
+%mor:	pron|he-Prs-Nom-S3 verb|love-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 adv|too adv|too .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|ADVMOD 5|2|ADVMOD 6|2|PUNCT
+*CHI:	he love me too .
+%mor:	pron|he-Prs-Nom-S3 verb|love-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 adv|too .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	I be bad bunny ?
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adj|bad-Pos-S1 noun|bunny ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	be bunny ?
+%mor:	aux|be-Fin-Imp-S adj|bunny-Pos-S1 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	one min(u)t(e) .
+%mor:	num|one noun|minute .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	oh who dere [: there] .
+%mor:	intj|oh pron|who-Int-S1 adv|there .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	a boo_boo eye .
+%mor:	det|a-Ind-Art noun|booboo noun|eye .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Easter_Bunny .
+%mor:	noun|EasterBunny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Easter_Bunny !
+%mor:	noun|EasterBunny !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx where ?
+%mor:	adv|where ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	awoh .
+%mor:	noun|awoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	you through ?
+%mor:	pron|you-Prs-Nom-S2 adv|through ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx go Easter_Bunny ?
+%mor:	verb|go-Fin-Imp-S noun|EasterBunny ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	c(o)me o:n Mommy .
+%mor:	verb|come-Fin-Imp-S adp|on noun|Mommy .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	Mommy girl .
+%mor:	noun|mommy noun|girl .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	o:h .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want cookie .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|cookie .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I had cookie .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1 noun|cookie .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	yyy milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	juice .
+%mor:	noun|juice .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no juice .
+%mor:	det|no-Def noun|juice .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	see (.) no juice .
+%mor:	verb|see-Fin-Imp-S det|no-Def noun|juice .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	in (th)ere .
+%mor:	adp|in adv|there .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	no juice (i)n (th)ere .
+%mor:	det|no-Def noun|juice adp|in adv|there .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cold .
+%mor:	adj|cold-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	it cold .
+%mor:	pron|it-Prs-Nom-S3 adj|cold-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	two dress .
+%mor:	num|two noun|dress .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	I go .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	I want juice .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|juice .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I call Easter_Bunny .
+%mor:	pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Pres-S1 noun|EasterBunny .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I see him .
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	xxx one .
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	some more .
+%mor:	det|some-Def adj|more-Cmp-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	yes !
+%mor:	intj|yes !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx ride .
+%mor:	noun|ride .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh_boy .
+%mor:	noun|Bhboy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx go money ears .
+%mor:	verb|go-Fin-Imp-S noun|money noun|ear-Plur .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	monkey ears .
+%mor:	noun|monkey noun|ear-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	he got boo_boo hand .
+%mor:	pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3 noun|booboo noun|hand .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	a cut [?] hand .
+%mor:	det|a-Ind-Art noun|cut noun|hand .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	&-uh (.) you .
+%mor:	pron|you-Prs-Acc-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Daddy .
+%mor:	noun|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	an acc(id)ent .
+%mor:	det|a-Ind-Art noun|accident .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a boo_boo .
+%mor:	det|a-Ind-Art noun|booboo .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx boo_boo .
+%mor:	noun|booboo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my hand .
+%mor:	pron|my-Prs-Gen-S1 noun|hand .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	Michael hand .
+%mor:	noun|Michael noun|hand .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	don't bleed either .
+%mor:	aux|do-Fin-Imp-S~part|not verb|bleed-Fin-Imp-S adv|either .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	xxx you fix it .
+%mor:	pron|you-Prs-Nom-S2 verb|fix-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	fix this .
+%mor:	verb|fix-Inf-S pron|this-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	me .
+%mor:	pron|I-Prs-Acc-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	toy piano .
+%mor:	noun|toy noun|piano .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	one two three xxx I got piano dere [: there] .
+%mor:	num|one num|two num|three pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 noun|piano adv|there .
+%gra:	1|3|NUMMOD 2|3|COMPOUND 3|5|OBJ 4|5|NSUBJ 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*CHI:	I go dancing now .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 verb|dance-Ger-S adv|now .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|ADVMOD 5|2|PUNCT
+*CHI:	I go dancing .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 verb|dance-Ger-S .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	floor wet .
+%mor:	noun|floor adj|wet-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	I all wet Mommy .
+%mor:	pron|I-Prs-Nom-S1 det|all-Def-Tot verb|wet-Fin-Ind-Pres-S1 noun|Mommy .
+%gra:	1|3|NSUBJ 2|1|DET 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	I all wet .
+%mor:	pron|I-Prs-Nom-S1 det|all-Def-Tot verb|wet-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|1|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	next week .
+%mor:	adj|next-Pos-S1 noun|week .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	help me .
+%mor:	verb|help-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	uhoh all wet .
+%mor:	intj|uhoh det|all-Def adj|wet-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	Nana .
+%mor:	noun|Nana .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no mo(n)ey xxx .
+%mor:	det|no-Def noun|money .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	that .
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	you Popeye .
+%mor:	pron|you-Prs-Acc-S2 noun|Popeye .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	oh Popeye .
+%mor:	intj|oh noun|Popeye .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	Popeye .
+%mor:	noun|Popeye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dere [: there] .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx bow_wow@o .
+%mor:	intj|bowwow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nice baby .
+%mor:	adj|nice-Pos-S1 noun|baby .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	he saying .
+%mor:	pron|he-Prs-Nom-S3 verb|say-Ger-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Bobo .
+%mor:	noun|Bobo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Hugabye .
+%mor:	noun|Hugabye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bear .
+%mor:	verb|bear-Inf-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cat .
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	do(s)e [: those] bunnies .
+%mor:	det|that-Def-Dem noun|bunny-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Booby_Bear .
+%mor:	noun|BoobyBear .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx apple .
+%mor:	noun|apple .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	two !
+%mor:	num|two !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<one two three four> [=! counting] . [+ bch]
+%mor:	num|one num|two num|three num|four .
+%gra:	1|4|NUMMOD 2|4|NUMMOD 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	bok@c .
+%mor:	noun|bok .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mouse .
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a mouse .
+%mor:	det|a-Ind-Art noun|mouse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	meow@o .
+%mor:	noun|meow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yyy eee Huckleberry .
+%mor:	verb|eee-Fin-Imp-S noun|Huckleberry .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Huckleberry now .
+%mor:	noun|Huckleberry adv|now .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	swing .
+%mor:	noun|swing .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I got swing out .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 noun|swing adv|out .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	outdoor swings .
+%mor:	adj|outdoor-Pos-S1 noun|swing-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT

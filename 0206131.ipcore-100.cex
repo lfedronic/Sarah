@@ -1,0 +1,300 @@
+*CHI:	(h)ey [?] boy doing ?
+%mor:	intj|hey intj|boy verb|do-Ger-S ?
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx wa(ter) .
+%mor:	noun|water .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he get [?] up .
+%mor:	pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CHI:	box .
+%mor:	noun|box .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx toys .
+%mor:	noun|toy-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ki(tt)y .
+%mor:	noun|kitty .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	neow@o .
+%mor:	intj|neow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Tuppy .
+%mor:	noun|Tuppy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he run .
+%mor:	pron|he-Prs-Nom-S3 verb|run-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	he jumping rope .
+%mor:	pron|he-Prs-Nom-S3 verb|jump-Ger-S noun|rope .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	pee ?
+%mor:	noun|pee ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx a ball .
+%mor:	det|a-Ind-Art noun|ball .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	kite .
+%mor:	noun|kite .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	li(ttle) one ?
+%mor:	adj|little-Pos-S1 noun|one ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	lamb eee oh may .
+%mor:	noun|lamb intj|eee intj|oh aux|may-Fin-S .
+%gra:	1|4|ROOT 2|1|DISCOURSE 3|4|DISCOURSE 4|1|PARATAXIS 5|1|PUNCT
+*CHI:	Ma(r)y a lamb ?
+%mor:	noun|Mary det|a-Ind-Art noun|lamb ?
+%gra:	1|3|ROOT 2|3|DET 3|1|APPOS 4|1|PUNCT
+*CHI:	doggie ?
+%mor:	noun|doggie ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he go mirror .
+%mor:	pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 noun|mirror .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx eat .
+%mor:	verb|eat-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	li(o)n .
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he eat .
+%mor:	pron|he-Prs-Nom-S3 verb|eat-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx some ki(tt)y (.) xxx more ki(tt)y .
+%mor:	det|some-Def noun|kitty adv|more noun|kitty .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	more ki(tt)y .
+%mor:	adj|more-Cmp-S1 noun|kitty .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	boy .
+%mor:	noun|boy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Michael .
+%mor:	noun|Michael .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a monkey !
+%mor:	det|a-Ind-Art noun|monkey !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	he xxx .
+%mor:	pron|he-Prs-Nom-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he tail .
+%mor:	pron|he-Prs-Nom-S3 noun|tail .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	curly tail .
+%mor:	adj|curly-Pos-S1 noun|tail .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	shoes .
+%mor:	noun|shoe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	red .
+%mor:	adj|red-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he go ni(ght)_ni(ght) ?
+%mor:	pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 noun|nightnight ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	va(len)tine ?
+%mor:	noun|valentine ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I love you ?
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	dere [: there] .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	trunk ?
+%mor:	noun|trunk ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mine ?
+%mor:	pron|mine-Prs-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	have one for do(ll)y clothes ?
+%mor:	verb|have-Fin-Imp-S num|one adp|for noun|dolly noun|clothes-Plur ?
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|COMPOUND 5|2|NMOD 6|1|PUNCT
+*CHI:	(h)ey dere [: there] ?
+%mor:	intj|hey adv|there ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	xxx pencil xxx .
+%mor:	noun|pencil .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mo(ne)y !
+%mor:	noun|money !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mo(ne)y .
+%mor:	noun|money .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	doggie .
+%mor:	noun|doggie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pig .
+%mor:	noun|pig .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	onk@o [/] onk@o .
+%mor:	intj|onk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	slide down slide .
+%mor:	verb|slide-Fin-Imp-S adp|down noun|slide .
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|OBJ 4|1|PUNCT
+*CHI:	man .
+%mor:	noun|man .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dere [: there] !
+%mor:	adv|there !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	rabbit .
+%mor:	noun|rabbit .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	swim .
+%mor:	verb|swim-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	clock .
+%mor:	noun|clock .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ging_going@o .
+%mor:	noun|ginggoing .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	phone .
+%mor:	noun|phone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ging@o .
+%mor:	intj|ging .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I talk phone .
+%mor:	pron|I-Prs-Nom-S1 verb|talk-Fin-Ind-Pres-S1 noun|phone .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	call phone .
+%mor:	verb|call-Inf-S noun|phone .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	hello .
+%mor:	intj|hello .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Santie_Claus .
+%mor:	noun|SantieClaus .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a doggie .
+%mor:	det|a-Ind-Art noun|doggie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	me .
+%mor:	pron|I-Prs-Acc-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	step (a)n(d) stones ?
+%mor:	noun|step cconj|and noun|stone-Plur ?
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*CHI:	dat [: that] .
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hit .
+%mor:	verb|hit-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	when rains .
+%mor:	adv|when noun|rain-Plur .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	a rain dere [: there] .
+%mor:	det|a-Ind-Art noun|rain adv|there .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	rain .
+%mor:	noun|rain .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx cold out .
+%mor:	adj|cold-Pos-S1 adv|out .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	whistle .
+%mor:	noun|whistle .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wheel .
+%mor:	noun|wheel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	horsie !
+%mor:	noun|horsie !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I have big horsie .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 adj|big-Pos-S1 noun|horsie .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*CHI:	dere [: there] lion [/] lion .
+%mor:	pron|there-Prs-Gen-S3 noun|lion .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	giraffe .
+%mor:	noun|giraffe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kangaroo .
+%mor:	noun|kangaroo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Nana !
+%mor:	noun|Nana !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cake .
+%mor:	noun|cake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	read (a)gain .
+%mor:	verb|read-Fin-Imp-S adv|again .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	xxx book ?
+%mor:	noun|book ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	who did dat [: that] ?
+%mor:	pron|who-Rel-S1 verb|do-Fin-Ind-Past-S3 pron|that-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Mike did ?
+%mor:	noun|Mike aux|do-Fin-Ind-Past-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	bad dog !
+%mor:	adj|bad-Pos-S1 noun|dog !
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	he bad boy .
+%mor:	pron|he-Prs-Nom-S3 adj|bad-Pos-S1 noun|boy .
+%gra:	1|3|NSUBJ 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	bad girl .
+%mor:	adj|bad-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	you do dat [: that] ?
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 pron|that-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Michael ?
+%mor:	noun|Michael ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Michael !
+%mor:	noun|Michael !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a one ?
+%mor:	det|a-Ind-Art num|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	here wuh@p one .
+%mor:	adv|here intj|wuh num|one .
+%gra:	1|3|ROOT 2|1|DISCOURSE 3|1|PARATAXIS 4|1|PUNCT
+*CHI:	here ?
+%mor:	adv|here ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	right dere [: there] ?
+%mor:	adv|right adv|there ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx dere [: there] ?
+%mor:	adv|there ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx one dere [: there] ?
+%mor:	num|one adv|there ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	one da(t) [: that] ?
+%mor:	num|one pron|that-Dem-S1 ?
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*CHI:	Don(ald)z_Duck !
+%mor:	noun|DonaldzDuck !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wow woe Don(ald)z_Duck .
+%mor:	intj|wow verb|wan-Fin-Imp-S noun|DonaldzDuck .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	one my head .
+%mor:	num|one pron|my-Prs-Gen-S1 noun|head .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|NMOD-NPMOD 4|1|PUNCT
+*CHI:	one head .
+%mor:	num|one noun|head .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	eyes .
+%mor:	noun|eye-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT

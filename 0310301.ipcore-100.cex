@@ -1,0 +1,300 @@
+*CHI:	hey (.) &-uh .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	e@l i@l e@l i@l o@l o@l . [+ bch]
+%mor:	x|e x|I x|e pron|I-Prs-Nom-S1 aux|of-Fin-Ind-Pres-S1 intj|o .
+%gra:	1|6|ROOT 2|1|FLAT 3|1|FLAT 4|5|NSUBJ 5|1|PARATAXIS 6|1|DISCOURSE 7|1|PUNCT
+*CHI:	what's dat [: that] spell ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem noun|spell ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	uhuh !
+%mor:	intj|uhuh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Kent .
+%mor:	noun|Kent .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oop (.) &-uh !
+%mor:	noun|oop !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pee_pee .
+%mor:	noun|peepee .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	she doesn't stand up .
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|stand-Inf-S adp|up .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	Pinkuh .
+%mor:	noun|Pinkuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Penny_Bright .
+%mor:	noun|PennyBright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no !
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	to the circus !
+%mor:	adp|to det|the-Def-Art noun|circus !
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	<to go to> [//] (.) had school .
+%mor:	verb|have-Fin-Ind-Past-S1 noun|school .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	that xxx hurt .
+%mor:	pron|that-Dem-S1 verb|hurt-Fin-Ind-Past-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	&-um (.) to (.) yyy .
+%mor:	part|to .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	to Magazine_Beach .
+%mor:	adp|to noun|MagazineBeach .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	I played in the water .
+%mor:	pron|I-Prs-Nom-S1 verb|play-Fin-Ind-Past-S1 adp|in det|the-Def-Art noun|water .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	yeah !
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Old_MacDonald had a xxx .
+%mor:	noun|OldMacDonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	e@l i@l e@l i@l o@l . [+ bch]
+%mor:	x|e pron|I-Prs-Nom-S1 x|e pron|I-Prs-Nom-S1 verb|of-Fin-Ind-Pres-S1 .
+%gra:	1|5|ROOT 2|1|FLAT 3|1|FLAT 4|5|NSUBJ 5|1|PARATAXIS 6|1|PUNCT
+*CHI:	a lipstick .
+%mor:	det|a-Ind-Art noun|lipstick .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	I close my pocketbook .
+%mor:	pron|I-Prs-Nom-S1 verb|close-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|pocketbook .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	see my pocketbook ?
+%mor:	verb|see-Fin-Imp-S pron|my-Prs-Gen-S1 noun|pocketbook ?
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	uhuh .
+%mor:	intj|uhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ee_yay_ee_yay_oh . [+ bch]
+%mor:	noun|eeyayeeyayoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Old_Mac_Donald had a farm ee_yay_ee_yay_oh . [+ bch]
+%mor:	noun|OldMacDonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|farm noun|eeyayeeyayoh .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	what d(o) ya say ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|say-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	what ya say ?
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 ?
+%gra:	1|3|OBJ 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	are you (.) Old_MacDonald ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 noun|OldMacDonald ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	are you (.) Kent ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 noun|Kent ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	how_come you have glasses on ?
+%mor:	intj|howcome pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 noun|glasses-Plur adv|on ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	why [/] (.) <why d(o) ya> [/] (.) <why d(o) ya> [/] (.) why d(o) ya (.) cook xxx .
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|cook-Inf-S .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	why're you doin(g) that ?
+%mor:	adv|why~aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S pron|that-Dem-S1 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	<where's ya> [/] where's ya baby brother ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|you-Prs-Gen-S2 noun|baby noun|brother ?
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|5|COMPOUND 5|1|NSUBJ 6|1|PUNCT
+*CHI:	why not ?
+%mor:	adv|why part|not ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	no you're not .
+%mor:	intj|no pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	Old_Mac_Donald had a farm (.) e@l i@l e@l i@l o@l ! [+ bch]
+%mor:	noun|OldMacDonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|farm noun|email noun|i x|e noun|i noun|o !
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|5|FLAT 7|5|FLAT 8|5|APPOS 9|2|ADVMOD 10|2|PUNCT
+*CHI:	nah nah [/] (.) you can't catch me .
+%mor:	intj|nah pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|catch-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	nah (.) nah (.) you can't catch me .
+%mor:	intj|nah intj|nah pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|catch-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Old_Mac_Donald had a chick (.) e@l i@l e@l i@l o@l (.) o@l . [+ bch]
+%mor:	noun|OldMacDonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|chick x|e x|I x|e noun|i aux|of-Fin-Ind-Pres-S1 intj|o .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|DET 4|2|OBJ 5|2|OBJ 6|7|COMPOUND 7|5|FLAT 8|9|NSUBJ 9|2|PARATAXIS 10|2|DISCOURSE 11|2|PUNCT
+*CHI:	let me swing ?
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|swe-Inf-S ?
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*CHI:	xxx gonna .
+%mor:	adv|gonna .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I'm gonna Mama .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|gonna-Pos-S1 noun|mama .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	please xxx .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he gonna break it .
+%mor:	pron|he-Prs-Nom-S3 adv|gonna verb|break-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	you're (.) gonna break it .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|gonna verb|break-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	Soopa@c .
+%mor:	noun|Soopa .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Old_MacDonald had a (.) snake .
+%mor:	noun|OldMacDonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|snake .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	see the little snake ?
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art adj|little-Pos-S1 noun|snake ?
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*CHI:	uhuh (.) a snake .
+%mor:	intj|uhuh det|a-Ind-Art noun|snake .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	uhuh lipstick .
+%mor:	intj|uhuh noun|lipstick .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	no (.) it isn't .
+%mor:	intj|no pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	for Nana !
+%mor:	adp|for noun|Nana !
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	I don't wanna .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|wanna-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx get ready anyway for dance school tonight .
+%mor:	verb|get-Fin-Imp-S adj|ready-Pos-S1 adv|anyway adp|for noun|dance noun|school noun|tonight .
+%gra:	1|7|ROOT 2|1|XCOMP 3|2|ADVMOD 4|6|CASE 5|6|COMPOUND 6|2|OBL 7|1|OBL-TMOD 8|1|PUNCT
+*CHI:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	to Zayre's .
+%mor:	adp|to noun|Zayre~part|s .
+%gra:	1|2|CASE 2|3|ROOT 3|2|CASE 4|2|PUNCT
+*CHI:	I'm goin(g) to (.) downstairs .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to noun|downstairs .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*CHI:	Ol(d)z_MacDonald had a yyy e@l i@l e@l i@l o@l .
+%mor:	noun|OldzMacDonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|email noun|i noun|email noun|i verb|of-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|2|OBJ 5|6|COMPOUND 6|4|APPOS 7|8|NSUBJ 8|4|ACL-RELCL 9|2|PUNCT
+*CHI:	yellow .
+%mor:	adj|yellow-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Old_Mac_D(o)n(ald) (.) <Don (.) Don> [/] (.) Don .
+%mor:	noun|OldMacDonald noun|Don .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	like this (.) Don [/] Don Donal(d) .
+%mor:	adp|like det|this-Def-Dem noun|Don noun|Donald .
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+*CHI:	<Don (.) Don (.) Don (.) Don> [/] (.) Don .
+%mor:	noun|Don .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	how do you open this ?
+%mor:	adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|open-Inf-S pron|this-Dem-S1 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	Uncle_Eddie died .
+%mor:	noun|UncleEddie verb|die-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	he goed [: went] [* +ed] to heaven .
+%mor:	pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3 adp|to noun|heaven .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(be)cause he already died .
+%mor:	sconj|because pron|he-Prs-Nom-S3 adv|already verb|die-Fin-Ind-Past-S3 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	<(be)cause> [/] (.) <(be)cause> [/] (.) <(be)cause> [/] (.) (be)cause he wanted to .
+%mor:	sconj|because pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Past-S3 part|to .
+%gra:	1|3|MARK 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*CHI:	maybe he's yyy .
+%mor:	adv|maybe pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	Ol(d)z_MacDonald had a farm . [+ bch]
+%mor:	noun|OldzMacDonald verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|farm .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	I gonna put the ducks in here .
+%mor:	pron|I-Prs-Nom-S1 adv|gonna verb|put-Fin-Ind-Pres-S1 det|the-Def-Art noun|duck-Plur adp|in adv|here .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+*CHI:	the two little ducks .
+%mor:	det|the-Def-Art num|two adj|little-Pos-S1 noun|duck-Plur .
+%gra:	1|4|DET 2|4|NUMMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	two little ducks oh ohs [: oh] .
+%mor:	num|two adj|little-Pos-S1 noun|duck-Plur intj|oh intj|oh .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|5|ROOT 4|3|DISCOURSE 5|3|DISCOURSE 6|3|PUNCT
+*CHI:	two .
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I got (.) a lot (a)n(d) he has one .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 det|a-Ind-Art noun|lot cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|NSUBJ 7|2|CONJ 8|7|OBJ 9|2|PUNCT
+*CHI:	give me that .
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 pron|that-Dem-S1 .
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	fine .
+%mor:	adj|fine-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	one .
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Don (.) two xxx .
+%mor:	noun|Don num|two .
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*CHI:	one (.) two (.) three (.) four (.) five . [+ bch]
+%mor:	num|one num|two num|three num|four num|five .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|5|ROOT 4|5|NUMMOD 5|3|CONJ 6|3|PUNCT
+*CHI:	meenie@b (.) ninie@b (.) yyy (.) take a tiger .
+%mor:	noun|meenie noun|Ninie verb|take-Fin-Imp-S det|a-Ind-Art noun|tiger .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	dis [: this] is mine .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|mine-Prs-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	meenie@b minie@b .
+%mor:	noun|meenie noun|minie .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	truck a tiger or a (.) toe .
+%mor:	verb|truck-Inf-Imp-S det|a-Ind-Art noun|tiger cconj|or det|a-Ind-Art noun|toe .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CC 5|6|DET 6|3|CONJ 7|1|PUNCT
+*CHI:	meenie@b minie@b yyy truck a tiger on a toe meenie@b minie@b yyy . [+ bch]
+%mor:	noun|meenie noun|minie noun|truck det|a-Ind-Art noun|tiger adp|on det|a-Ind-Art noun|toe noun|meenie noun|minie .
+%gra:	1|10|ROOT 2|3|COMPOUND 3|1|OBJ 4|5|DET 5|3|APPOS 6|10|CASE 7|10|DET 8|10|COMPOUND 9|10|COMPOUND 10|5|NMOD 11|1|PUNCT
+*CHI:	da(t) [: that's] my ducks .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|duck-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*CHI:	you can have one .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|have-Inf-S num|one .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	banana (.) banana (.) banana black .
+%mor:	noun|banana noun|banana noun|banana adj|black-Pos-S1 .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	look like Momma babysit .
+%mor:	verb|look-Fin-Imp-S adp|like noun|Momma noun|babysit .
+%gra:	1|4|ROOT 2|4|CASE 3|4|COMPOUND 4|1|OBL 5|1|PUNCT
+*CHI:	chickie died Mama cried .
+%mor:	noun|chickie verb|die-Fin-Ind-Past-S3 noun|mama verb|cry-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+*CHI:	banana (.) banana black .
+%mor:	noun|banana noun|banana adj|black-Pos-S1 .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	you did .
+%mor:	pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	oh (.) <who (.) who (.) who> [/] who .
+%mor:	intj|oh pron|who-Int-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	what's this ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT

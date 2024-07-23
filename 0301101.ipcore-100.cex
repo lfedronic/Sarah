@@ -1,0 +1,300 @@
+*CHI:	my woman .
+%mor:	pron|my-Prs-Gen-S1 noun|woman .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	hey where's my doggie .
+%mor:	intj|hey adv|where~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|doggie .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|COP 4|5|NMOD-POSS 5|2|NSUBJ 6|2|PUNCT
+*CHI:	xxx may doggie .
+%mor:	aux|may-Fin-S verb|doggie-Inf-S .
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx popsicles .
+%mor:	noun|popsicle-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	popsicle .
+%mor:	noun|popsicle .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want a popsicle .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|popsicle .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	want xxx .
+%mor:	verb|want-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dis [: this] big (.) Mommy .
+%mor:	det|this-Def-Dem adj|big-Pos-S1 noun|Mommy .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	I want dis [: this] big .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|this-Def-Dem adj|big-Pos-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	like orange .
+%mor:	intj|like adj|orange-Pos-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	orange .
+%mor:	adj|orange-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Donna like it (.) too .
+%mor:	noun|Donna verb|like-Fin-Ind-Pres-S pron|it-Prs-Acc-S3 adv|too .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	mm .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	she's my friend .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|friend .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*CHI:	we [/] we play dolls .
+%mor:	pron|we-Prs-Nom-P1 verb|play-Fin-Ind-Pres-P1 noun|doll-Plur .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	too .
+%mor:	adv|too .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I've got that popsicle on right here .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S det|that-Def-Dem noun|popsicle adp|on adv|right adv|here .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|ADVMOD 8|3|OBL 9|3|PUNCT
+*CHI:	I've got popsicle on right (.) here .
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S noun|popsicle adp|on adv|right adv|here .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|ADVMOD 7|3|OBL 8|3|PUNCT
+*CHI:	I want two .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 num|two .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	dis [: this] .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nope .
+%mor:	intj|nope .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	candy .
+%mor:	noun|candy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	manny@b .
+%mor:	noun|manny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tanny@b .
+%mor:	noun|tanny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tanny@b !
+%mor:	noun|tanny !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I say em .
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	canny@b .
+%mor:	adj|canny-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&-uh (.) black one .
+%mor:	adj|black-Pos-S1 num|one .
+%gra:	1|2|ROOT 2|1|DEP 3|1|PUNCT
+*CHI:	no (.) black ones .
+%mor:	det|no-Def adj|black-Pos-S1 noun|one-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	black ones .
+%mor:	adj|black-Pos-S1 noun|one-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&-uh (.) &-um (.) for breakfast .
+%mor:	adp|for noun|breakfast .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	who's that .
+%mor:	pron|who-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	new .
+%mor:	adj|new-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cereal .
+%mor:	noun|cereal .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a seek .
+%mor:	det|a-Ind-Art noun|seek .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	whippin(g) on me .
+%mor:	verb|whip-Ger-S adp|on pron|I-Prs-Acc-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	on my hand .
+%mor:	adp|on pron|my-Prs-Gen-S1 noun|hand .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	no (.) it's not .
+%mor:	intj|no pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	&-uh (.) I want t(o) go .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|go-Inf-S .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a farmer .
+%mor:	det|a-Ind-Art noun|farmer .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	here's a doggie .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|doggie .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	&-uh (.) brown .
+%mor:	noun|brown .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want an orange .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|orange .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	a chicken .
+%mor:	det|a-Ind-Art noun|chicken .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a ho(r)sie .
+%mor:	det|a-Ind-Art noun|horsie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	ho(r)sie .
+%mor:	noun|horsie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	is too Mommy .
+%mor:	aux|be-Fin-Ind-Pres-S3 adv|too noun|Mommy .
+%gra:	1|3|COP 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	what .
+%mor:	pron|what-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cow .
+%mor:	noun|cow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(a)n(d) this (.) huh ?
+%mor:	cconj|and det|this-Def-Dem intj|huh ?
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	(a)n(d) this .
+%mor:	cconj|and pron|this-Dem-S1 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I wanna race around .
+%mor:	pron|I-Prs-Nom-S1 verb|wanna-Fin-Ind-Pres-S1 noun|race adv|around .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	I want t(o) race around .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|race-Inf-S adv|around .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|ADVMOD 6|2|PUNCT
+*CHI:	I want t(o) taste an orange .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|taste-Inf-S det|a-Ind-Art noun|orange .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	a rooster .
+%mor:	det|a-Ind-Art noun|rooster .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	this a ho(r)sie .
+%mor:	pron|this-Dem-S1 det|a-Ind-Art noun|horsie .
+%gra:	1|3|NSUBJ 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	here's another one .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|another-Def noun|one .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	here's another one (.) Courtney .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|another-Def noun|one noun|Courtney .
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|4|APPOS 6|1|PUNCT
+*CHI:	C(o)urtney .
+%mor:	noun|Courtney .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Carol .
+%mor:	noun|Carol .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Sarah (.) I told you (.) that (be)fore .
+%mor:	noun|Sarah pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S3 pron|you-Prs-Acc-S2 pron|that-Dem-S1 adv|before .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	yeah (.) I told you that before .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 pron|that-Dem-S1 adv|before .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	xxx they tip over (.) like this .
+%mor:	pron|they-Prs-Nom-P3 verb|tip-Fin-Ind-Pres-P3 adp|over adp|like pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COMPOUND-PRT 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	tip over .
+%mor:	verb|tip-Fin-Imp-S adv|over .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	tip over (.) I'm goin(g) get .
+%mor:	verb|tip-Inf-Imp-S adv|over pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S verb|get-Inf-S .
+%gra:	1|6|ROOT 2|1|COMPOUND-PRT 3|5|NSUBJ 4|5|AUX 5|1|PARATAXIS 6|5|XCOMP 7|1|PUNCT
+*CHI:	Mommy (.) where's my popsicle ?
+%mor:	noun|Mommy adv|where~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|popsicle ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COP 4|5|NMOD-POSS 5|2|NSUBJ 6|2|PUNCT
+*CHI:	I want it .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	xxx in the teeth .
+%mor:	adp|in det|the-Def-Art noun|tooth .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	bad black .
+%mor:	adj|bad-Pos-S1 noun|black .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	black (.) my teeth are black .
+%mor:	adj|black-Pos-S1 pron|my-Prs-Gen-S1 noun|tooth-Plur aux|be-Fin-Ind-Pres-P3 adj|black-Pos-S1 .
+%gra:	1|5|ADVCL 2|3|NMOD-POSS 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*CHI:	my teeth are black .
+%mor:	pron|my-Prs-Gen-S1 noun|tooth-Plur aux|be-Fin-Ind-Pres-P3 adj|black-Pos-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	&-um (.) blood .
+%mor:	noun|blood .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I got red do .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 adj|red-Pos-S1 noun|do .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*CHI:	a xxx .
+%mor:	det|a-Ind-Art .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a little s(t)uff on my nose .
+%mor:	det|a-Ind-Art adj|little-Pos-S1 noun|stuff adp|on pron|my-Prs-Gen-S1 noun|nose .
+%gra:	1|3|DET 2|3|AMOD 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|3|PUNCT
+*CHI:	I wanna go out .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|go-Inf-S adv|out .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	hold on pops(icle) .
+%mor:	verb|hold-Fin-Imp-S adp|on noun|popsicle .
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|OBJ 4|1|PUNCT
+*CHI:	don't put it in first .
+%mor:	aux|do-Fin-Imp-S~part|not verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in adj|first-Pos-S1 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	dum(p) all a stuff out .
+%mor:	verb|dump-Fin-Imp-S det|all-Def det|a-Ind-Art noun|stuff adv|out .
+%gra:	1|5|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|1|ADVMOD 6|1|PUNCT
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mummy .
+%mor:	noun|mummy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<my house (.) &~det> [//] there my house .
+%mor:	pron|there-Int-S1 pron|my-Prs-Gen-S1 noun|house .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|NSUBJ 4|1|PUNCT
+*CHI:	no Mummy .
+%mor:	det|no-Def noun|mummy .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	didn't bite it .
+%mor:	aux|do-Fin-Ind-Past-S3~part|not verb|bite-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	uhoh .
+%mor:	intj|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<&~whe> [/] where's my home ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|home ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	I goin(g) to <&~pu> [?] .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Ger-S adp|to .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBL 4|2|PUNCT
+*CHI:	put this <in my (.) &-uh> [/] &-uh in my house .
+%mor:	verb|put-Fin-Imp-S pron|this-Dem-S1 adp|in pron|my-Prs-Gen-S1 noun|house .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|NMOD-POSS 5|1|OBL 6|1|PUNCT
+*CHI:	oh bobobo@b .
+%mor:	intj|oh intj|bobobo .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	t(h)em (.) two sizes .
+%mor:	pron|they-Prs-Acc-P3 num|two noun|size-Plur .
+%gra:	1|3|NMOD-POSS 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	this way .
+%mor:	det|this-Def-Dem noun|way .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT

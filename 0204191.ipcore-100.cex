@@ -1,0 +1,300 @@
+*CHI:	go wi(th) you .
+%mor:	verb|go-Fin-Imp-S adp|with pron|you-Prs-Acc-S2 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	I Bu(gs) [/] Bu(gs) .
+%mor:	pron|I-Prs-Nom-S1 noun|bug-Plur .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	I xxx .
+%mor:	pron|I-Prs-Nom-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I xxx ?
+%mor:	pron|I-Prs-Nom-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a bu(nn)y .
+%mor:	det|a-Ind-Art noun|bunny .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	poo(dle) .
+%mor:	noun|poodle .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	phone .
+%mor:	noun|phone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	poo(dle) dog ?
+%mor:	noun|poodle noun|dog ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	no(se) [/] no(se) .
+%mor:	noun|nose .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	right dere [: there] .
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	<no (.) no> [/] no ning [: string] .
+%mor:	det|no-Def noun|string .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	hey de [: the] dere [: there] .
+%mor:	intj|hey det|the-Def-Art adv|there .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	hey de [: the] duh .
+%mor:	intj|hey det|the-Def-Art intj|duh .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|1|DISCOURSE 4|2|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx (.) a poor pony .
+%mor:	det|a-Ind-Art adj|poor-Pos-S1 noun|pony .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	he won't walk .
+%mor:	pron|he-Prs-Nom-S3 aux|will-Fin-S~part|not verb|walk-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx head .
+%mor:	noun|head .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ear dere [: there] .
+%mor:	noun|ear adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	tail dere [: there] .
+%mor:	noun|tail adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	tail .
+%mor:	noun|tail .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	here tail .
+%mor:	adv|here noun|tail .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	p(rett)y .
+%mor:	adv|pretty .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	p(rett)y ?
+%mor:	adv|pretty ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	p(rett)y xxx poo(dle) .
+%mor:	adv|pretty noun|poodle .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	(hel)lo .
+%mor:	intj|hello .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	you talk .
+%mor:	pron|you-Prs-Nom-S2 verb|talk-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Carol .
+%mor:	noun|Carol .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hello Nana .
+%mor:	intj|hello noun|Nana .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	fine .
+%mor:	adj|fine-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I <a dress> [?] .
+%mor:	pron|I-Prs-Nom-S1 det|a-Ind-Art noun|dress .
+%gra:	1|3|NSUBJ 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	(hel)lo Grampy .
+%mor:	intj|hello noun|Grampy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	gone ?
+%mor:	adj|gone-Pos-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	horsie .
+%mor:	noun|horsie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Ford .
+%mor:	noun|Ford .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Ca(dilla)c .
+%mor:	noun|Cadillac .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my horsie .
+%mor:	pron|my-Prs-Gen-S1 noun|horsie .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	Poor_Pony .
+%mor:	noun|PoorPony .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nice horsie .
+%mor:	adj|nice-Pos-S1 noun|horsie .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	two pony .
+%mor:	num|two noun|pony .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	To(ny) [/] To(n)y ?
+%mor:	noun|Tony ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mine two [/] two Poor_Pony .
+%mor:	pron|mine-Prs-S1 num|two noun|PoorPony .
+%gra:	1|3|NMOD-POSS 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	<I rock> [?] .
+%mor:	pron|I-Prs-Nom-S1 verb|rock-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx rock .
+%mor:	noun|rock .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my mike .
+%mor:	pron|my-Prs-Gen-S1 noun|mike .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	my xxx Mommy .
+%mor:	pron|my-Prs-Gen-S1 noun|mommy .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	you mike .
+%mor:	pron|you-Prs-Nom-S2 noun|mike .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	and my mike .
+%mor:	cconj|and pron|my-Prs-Gen-S1 noun|mike .
+%gra:	1|3|CC 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	people here .
+%mor:	noun|person-Plur adv|here .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	xxx picture .
+%mor:	noun|picture .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yyy Beau(t)y .
+%mor:	noun|beauty .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	girl .
+%mor:	noun|girl .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	man .
+%mor:	noun|man .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bird .
+%mor:	noun|bird .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ride horsie .
+%mor:	noun|ride noun|horsie .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*CHI:	I ride horsie .
+%mor:	pron|I-Prs-Nom-S1 verb|ride-Fin-Ind-Pres-S1 noun|horsie .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	a yyy .
+%mor:	det|a-Ind-Art .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Bug .
+%mor:	noun|bug .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	long ear ?
+%mor:	adj|long-Pos-S1 noun|ear ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	bu(nn)y .
+%mor:	noun|bunny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(a)no(ther) bird .
+%mor:	det|another-Def noun|bird .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	long tail ?
+%mor:	adj|long-Pos-S1 noun|tail ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	nice .
+%mor:	adj|nice-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	owl .
+%mor:	noun|owl .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	meow . [+ bch]
+%mor:	noun|meow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hoo_hoo@o ?
+%mor:	noun|hoohoo ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hoo_hoo@o .
+%mor:	noun|hoohoo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	house .
+%mor:	noun|house .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	chimney ?
+%mor:	noun|chimney ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bird ?
+%mor:	noun|bird ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	two bird .
+%mor:	num|two noun|bird .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	two .
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hmhm@o .
+%mor:	intj|hmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	t(r)ee ?
+%mor:	noun|tree ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx my owl .
+%mor:	pron|my-Prs-Gen-S1 noun|owl .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	a bite me .
+%mor:	det|a-Ind-Art noun|bite pron|I-Prs-Acc-S1 .
+%gra:	1|2|DET 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+*CHI:	bite me .
+%mor:	verb|bite-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	bad .
+%mor:	adj|bad-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	all_gone .
+%mor:	noun|allgone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	horsie gone .
+%mor:	noun|horsie verb|go-Part-Past-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	this is Tony the pony .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|Tony det|the-Def-Art noun|pony .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|DET 5|3|APPOS 6|3|PUNCT
+*CHI:	pe(nn)y .
+%mor:	noun|penny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pee [: please] .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	o:h !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	o(ver) (.) where ?
+%mor:	adv|over adv|where ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	ball .
+%mor:	noun|ball .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kn(eel)ing .
+%mor:	noun|kneeling .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ball me .
+%mor:	noun|ball pron|I-Prs-Acc-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	throw me .
+%mor:	verb|throw-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	church .
+%mor:	noun|church .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	help me .
+%mor:	verb|help-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	here ball .
+%mor:	adv|here noun|ball .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx my ball !
+%mor:	pron|my-Prs-Gen-S1 noun|ball !
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	my .
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	here by [: my] ball .
+%mor:	adv|here pron|my-Prs-Gen-S1 noun|ball .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|NMOD-NPMOD 4|1|PUNCT
+*CHI:	here xxx .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	here by [: my] ball Mommy .
+%mor:	adv|here pron|my-Prs-Gen-S1 noun|ball noun|Mommy .
+%gra:	1|4|ROOT 2|4|NMOD-POSS 3|4|COMPOUND 4|1|VOCATIVE 5|1|PUNCT
+*CHI:	good ball (.) nice ball .
+%mor:	adj|good-Pos-S1 noun|ball adj|nice-Pos-S1 noun|ball .
+%gra:	1|4|AMOD 2|4|COMPOUND 3|4|AMOD 4|4|ROOT 5|4|PUNCT

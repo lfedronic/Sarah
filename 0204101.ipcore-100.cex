@@ -1,0 +1,300 @@
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yyy dere [: there] .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bear ?
+%mor:	verb|bear-Inf-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(h)ey dere [: there] .
+%mor:	intj|hey adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	lion .
+%mor:	noun|lion .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cow ?
+%mor:	noun|cow ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cow Mommy ?
+%mor:	noun|cow noun|Mommy ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Bobo [?] .
+%mor:	noun|Bobo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a Bobo .
+%mor:	det|a-Ind-Art noun|Bobo .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	I Sarah [?] .
+%mor:	pron|I-Prs-Nom-S1 noun|Sarah .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	boy .
+%mor:	noun|boy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eye [?] head [?] .
+%mor:	noun|eye noun|head .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	tail dere [: there] .
+%mor:	noun|tail adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	right [?] dere [: there] .
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	witch .
+%mor:	noun|witch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	shoe Mommy ?
+%mor:	noun|shoe noun|Mommy ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	right dere [: there] ?
+%mor:	adv|right adv|there ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	and witch there [?] .
+%mor:	cconj|and verb|witch-Fin-Imp-S adv|there .
+%gra:	1|2|CC 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	witch dere [: there] .
+%mor:	noun|witch adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	two witch .
+%mor:	num|two noun|witch .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	in (th)ere .
+%mor:	adp|in adv|there .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	two .
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sleep .
+%mor:	noun|sleep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nigh_nigh@f ?
+%mor:	intj|nighnigh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I nigh_nigh@f too .
+%mor:	pron|I-Prs-Nom-S1 verb|nighnigh-Fin-Ind-Pres-S1 adv|too .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	boy nigh_nigh@f (.) right dere [: there] .
+%mor:	intj|boy intj|nighnigh adv|right adv|there .
+%gra:	1|4|ROOT 2|1|DISCOURSE 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+*CHI:	I write wi(tch) .
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Pres-S1 noun|witch .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I write dere [: there] .
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Pres-S1 adv|there .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	horn .
+%mor:	noun|horn .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	door ?
+%mor:	noun|door ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	door .
+%mor:	noun|door .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	window .
+%mor:	noun|window .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	o:h !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx in .
+%mor:	adv|in .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	princess .
+%mor:	noun|princess .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<bad (.) bad> [/] (.) bad .
+%mor:	adj|bad-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pa(rt)y ?
+%mor:	noun|party ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mirror .
+%mor:	noun|mirror .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	p(rett)y hair ?
+%mor:	adj|pretty-Pos-S1 noun|hair ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	more [/] (.) more witch .
+%mor:	adj|more-Cmp-S1 noun|witch .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	moon dere [: there] .
+%mor:	noun|moon adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	see moon ?
+%mor:	verb|see-Fin-Imp-S noun|moon ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	moon ?
+%mor:	noun|moon ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	right dere [: there] !
+%mor:	adv|right adv|there !
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	king .
+%mor:	noun|king .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	horsie .
+%mor:	noun|horsie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ride horsie .
+%mor:	noun|ride noun|horsie .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*CHI:	my horsie .
+%mor:	pron|my-Prs-Gen-S1 noun|horsie .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	two horsie .
+%mor:	num|two noun|horsie .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	bird ?
+%mor:	noun|bird ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bu(nn)y .
+%mor:	noun|bunny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bug .
+%mor:	noun|bug .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	p(rett)y bug .
+%mor:	adv|pretty noun|bug .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	princess (.) yyy dere [: there] .
+%mor:	noun|princess adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	tree yyy dere [: there] .
+%mor:	noun|tree adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	a bu(nn)y .
+%mor:	det|a-Ind-Art noun|bunny .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	big bird .
+%mor:	adj|big-Pos-S1 noun|bird .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	squirrel ?
+%mor:	noun|squirrel ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx owl ?
+%mor:	noun|owl ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ano(ther) bird ?
+%mor:	det|another-Def noun|bird ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	bird .
+%mor:	noun|bird .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx (.) more bird (.) two bird ?
+%mor:	adj|more-Cmp-S1 noun|bird num|two noun|bird ?
+%gra:	1|2|AMOD 2|4|ROOT 3|4|NUMMOD 4|2|APPOS 5|2|PUNCT
+*CHI:	bu(nn)y ?
+%mor:	noun|bunny ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx here bu(nn)y .
+%mor:	adv|here noun|bunny .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	old la(d)y ?
+%mor:	adj|old-Pos-S1 noun|lady ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	egg .
+%mor:	noun|egg .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Nana xxx .
+%mor:	noun|Nana .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Nana home .
+%mor:	noun|Nana noun|home .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Nana home (.) nope .
+%mor:	noun|Nana noun|home noun|nope .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	gone store .
+%mor:	adj|gone-Pos-S1 noun|store .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	gone .
+%mor:	adj|gone-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	star .
+%mor:	noun|star .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	heaven .
+%mor:	noun|heaven .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	fire .
+%mor:	noun|fire .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bad !
+%mor:	adj|bad-Pos-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx horsie go .
+%mor:	noun|horsie verb|go-Fin-Imp-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	I xxx .
+%mor:	pron|I-Prs-Nom-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	two Bobo .
+%mor:	num|two noun|Bobo .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx dollie .
+%mor:	noun|dollie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mu(mm)y dollie .
+%mor:	noun|mummy noun|dollie .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	my dollie .
+%mor:	pron|my-Prs-Gen-S1 noun|dollie .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	can't take down [?] .
+%mor:	aux|can-Fin-S~part|not verb|take-Inf-S adv|down .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	xxx two dollie .
+%mor:	num|two noun|dollie .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Chatty_baby .
+%mor:	noun|Chattybaby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	two doggie .
+%mor:	num|two noun|doggie .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	ceiling .
+%mor:	noun|ceiling .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	doggie .
+%mor:	noun|doggie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go bowwow .
+%mor:	verb|go-Fin-Imp-S noun|bowwow .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	fall on bike [?] .
+%mor:	verb|fall-Fin-Imp-S adp|on noun|bike .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	see do(ll)y [?] .
+%mor:	verb|see-Fin-Imp-S noun|dolly .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	shoe .
+%mor:	noun|shoe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no shoe ?
+%mor:	det|no-Def noun|shoe ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	shoe (a)way ?
+%mor:	noun|shoe adv|away ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	all dirty ?
+%mor:	det|all-Def adj|dirty-Pos-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	walk .
+%mor:	verb|walk-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx baby xxx fall down .
+%mor:	noun|baby verb|fall-Inf-S adv|down .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	take [?] hand xxx .
+%mor:	verb|take-Fin-Imp-S noun|hand .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	<three (.) five (.) five (.) xxx (.) eight> [?] .
+%mor:	num|three num|five num|five num|eight .
+%gra:	1|4|ROOT 2|1|DEP 3|4|NUMMOD 4|1|CONJ 5|1|PUNCT

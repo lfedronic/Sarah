@@ -1,0 +1,192 @@
+*CHI:	I don't have any .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S det|any-Def .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	an orange .
+%mor:	det|a-Ind-Art adj|orange-Pos-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	apple .
+%mor:	noun|apple .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	apples .
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	there's a whole bunch .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|whole-Pos-S1 noun|bunch .
+%gra:	1|2|EXPL 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|2|PUNCT
+*CHI:	b(an)anas .
+%mor:	noun|banana-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a banana .
+%mor:	det|a-Ind-Art noun|banana .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	you burn it .
+%mor:	pron|you-Prs-Nom-S2 verb|burn-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	to burn .
+%mor:	part|to verb|burn-Inf-S .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+*CHI:	cigarettes .
+%mor:	noun|cigarette-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	matches .
+%mor:	noun|match-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cards .
+%mor:	noun|card-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	box .
+%mor:	noun|box .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go to dancing lessons .
+%mor:	verb|go-Fin-Imp-S adp|to noun|dancing noun|lesson-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|COMPOUND 4|1|OBL 5|1|PUNCT
+*CHI:	&-um (.) two years .
+%mor:	num|two noun|year-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	kittens .
+%mor:	noun|kitten-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	scratching those .
+%mor:	verb|scratch-Ger-S pron|that-Dem-P1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	knittings [: knitting] [* +s] .
+%mor:	noun|knitting .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	reindeers [: reindeer] [* +s] .
+%mor:	noun|reindeer .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lambs .
+%mor:	noun|lamb-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bit fat lambs .
+%mor:	noun|bit adj|fat-Pos-S1 noun|lamb-Plur .
+%gra:	1|2|OBL-NPMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	I can see those .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S pron|that-Dem-P1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	grass .
+%mor:	noun|grass .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat [: that] spilled .
+%mor:	pron|that-Dem-S1 verb|spill-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat [: that] spilled ?
+%mor:	pron|that-Dem-S1 verb|spill-Fin-Ind-Past-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	truck .
+%mor:	noun|truck .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a truck .
+%mor:	det|a-Ind-Art noun|truck .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	he jumping .
+%mor:	pron|he-Prs-Nom-S3 verb|jump-Ger-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	he jump .
+%mor:	pron|he-Prs-Nom-S3 verb|jump-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	he's jumping in the truck .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|jump-Part-Pres-S adp|in det|the-Def-Art noun|truck .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	girl .
+%mor:	noun|girl .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	two girls .
+%mor:	num|two noun|girl-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	they drinking .
+%mor:	pron|they-Prs-Nom-P3 verb|drink-Ger-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	climbing up the stairs .
+%mor:	verb|climb-Ger-S adp|up det|the-Def-Art noun|stair-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	Sharon .
+%mor:	noun|Sharon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Jonathan .
+%mor:	noun|Jonathan .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	stove .
+%mor:	noun|stove .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nothing happening .
+%mor:	pron|nothing-Neg-S1 verb|happen-Ger-S .
+%gra:	1|2|ROOT 2|1|ACL 3|1|PUNCT
+*CHI:	boy not sitting .
+%mor:	intj|boy part|not verb|sit-Ger-S .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	truck (.) (a)n(d) car .
+%mor:	noun|truck cconj|and noun|car .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*CHI:	train .
+%mor:	noun|train .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	green .
+%mor:	adj|green-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	blue .
+%mor:	adj|blue-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	red .
+%mor:	adj|red-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	orange .
+%mor:	adj|orange-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nah .
+%mor:	intj|nah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kitty .
+%mor:	noun|kitty .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a dog .
+%mor:	det|a-Ind-Art noun|dog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	pickin(g) the doggie up .
+%mor:	verb|pick-Ger-S det|the-Def-Art noun|doggie adp|up .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|1|PUNCT
+*CHI:	and (.) she had a kitty .
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3 det|a-Ind-Art noun|kitty .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	she pickin(g) the doggie up .
+%mor:	pron|she-Prs-Nom-S3 verb|pick-Ger-S det|the-Def-Art noun|doggie adp|up .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|COMPOUND-PRT 6|2|PUNCT
+*CHI:	she [/] (.) she already hold the doggie .
+%mor:	pron|she-Prs-Nom-S3 adv|already verb|hold-Fin-Ind-Pres-S3 det|the-Def-Art noun|doggie .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	he meowing .
+%mor:	pron|he-Prs-Nom-S3 verb|meow-Ger-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	(be)cause xxx .
+%mor:	sconj|because .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yellow .
+%mor:	adj|yellow-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	they pulling the truck .
+%mor:	pron|they-Prs-Nom-P3 verb|pull-Ger-S det|the-Def-Art noun|truck .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	doggie .
+%mor:	noun|doggie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	girls .
+%mor:	noun|girl-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pink .
+%mor:	adj|pink-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT

@@ -1,0 +1,13 @@
+ipsyn +t*CHI +o -leng
+Fri Jul 19 14:38:54 2024
+ipsyn (16-Jan-2024) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR:; %GRA:;
+****************************************
+From file <0303281.cha>
+
+
+CAN'T FIND NECESSARY SAMPLE SIZE OF 100 OF COMPLETE UTTERANCES.
+*CHI: FOUND ONLY 95 COMPLETE UTTERANCES
+IF YOU WANT TO USE SMALLER SAMPLE SIZE, THEN USE "+c" OPTION
+

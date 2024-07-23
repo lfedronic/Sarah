@@ -1,0 +1,300 @@
+*CHI:	a dishes .
+%mor:	det|a-Ind-Art noun|dish-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	I got Tony pony .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 noun|Tony noun|pony .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	Tony pony .
+%mor:	noun|Tony noun|pony .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah !
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	you on that (.) hey .
+%mor:	pron|you-Prs-Acc-S2 adp|on det|that-Def-Dem intj|hey .
+%gra:	1|4|ROOT 2|3|CASE 3|1|NMOD 4|1|DISCOURSE 5|1|PUNCT
+*CHI:	you on that .
+%mor:	pron|you-Prs-Acc-S2 adp|on pron|that-Dem-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	no (.) you (.) sit dere [: there] .
+%mor:	intj|no pron|you-Prs-Nom-S2 verb|sit-Fin-Ind-Pres-S2 adv|there .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	we go shopping .
+%mor:	pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 noun|shopping .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	two .
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want two pennies .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 num|two noun|penny-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|PUNCT
+*CHI:	I want .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	shopping .
+%mor:	noun|shopping .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bread .
+%mor:	noun|bread .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Putnam_Avenue .
+%mor:	noun|PutnamAvenue .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	me .
+%mor:	pron|I-Prs-Acc-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	one .
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nickel .
+%mor:	noun|nickel .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a nickel .
+%mor:	det|a-Ind-Art noun|nickel .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I bus you okay .
+%mor:	pron|I-Prs-Nom-S1 verb|bus-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adj|okay-Pos-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*CHI:	you on Tony [/] Tony .
+%mor:	pron|you-Prs-Acc-S2 adp|on noun|Tony .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	Tony [/] Tony .
+%mor:	noun|Tony .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no (.) my money .
+%mor:	intj|no pron|my-Prs-Gen-S1 noun|money .
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	a penny .
+%mor:	det|a-Ind-Art noun|penny .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	<I want have quarter> [>] .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|have-Inf-S noun|quarter .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+*CHI:	I want have quarter money .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|have-Inf-S noun|quarter noun|money .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|COMPOUND 5|3|OBJ 6|2|PUNCT
+*CHI:	quarter ?
+%mor:	noun|quarter ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no (.) my have it .
+%mor:	intj|no pron|my-Prs-Gen-S1 verb|have-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	<where my> [/] where my money ?
+%mor:	adv|where pron|my-Prs-Gen-S1 noun|money ?
+%gra:	1|3|ADVMOD 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	where my all my money ?
+%mor:	adv|where pron|my-Prs-Gen-S1 det|all-Def pron|my-Prs-Gen-S1 noun|money ?
+%gra:	1|5|ROOT 2|5|NMOD-POSS 3|5|DET-PREDET 4|5|NMOD-POSS 5|1|NSUBJ 6|1|PUNCT
+*CHI:	where my own ?
+%mor:	adv|where pron|my-Prs-Gen-S1 adj|own-Pos-S1 ?
+%gra:	1|3|ADVMOD 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	I find xxx .
+%mor:	pron|I-Prs-Nom-S1 verb|find-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	one (.) see ?
+%mor:	num|one verb|see-Fin-Ind-Pres-S ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	tootsie_roll ?
+%mor:	noun|tootsieroll ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	rolls .
+%mor:	noun|roll-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx candy .
+%mor:	noun|candy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yours .
+%mor:	pron|yours-Prs-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx way .
+%mor:	noun|way .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I get at them .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 adp|at pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	&-um tootsie_roll .
+%mor:	noun|tootsieroll .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	peppermint ?
+%mor:	noun|peppermint ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	peppermint .
+%mor:	noun|peppermint .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	very good ?
+%mor:	adv|very adj|good-Pos-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	see good money .
+%mor:	verb|see-Fin-Imp-S adj|good-Pos-S1 noun|money .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	in (h)ere .
+%mor:	adp|in adv|here .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I got money ?
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 noun|money ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I got (.) all a pennies (.) see ?
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 det|all-Def det|a-Ind-Art noun|penny-Plur noun|see ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|DET-PREDET 4|6|DET 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+*CHI:	no (.) Daddy xxx quarter .
+%mor:	det|no-Def noun|Daddy noun|quarter .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx Daddy .
+%mor:	noun|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	San(d)y .
+%mor:	noun|Sandy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Tickle_baby .
+%mor:	noun|Ticklebaby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	her cry .
+%mor:	pron|her-Prs-Gen-S3 noun|cry .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	you bought it .
+%mor:	pron|you-Prs-Nom-S2 verb|buy-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I get her .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 pron|her-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Tickle .
+%mor:	verb|tickle-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx dat [: that] (.) see .
+%mor:	pron|that-Dem-S1 verb|see-Fin-Imp-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	push the button .
+%mor:	verb|push-Fin-Imp-S det|the-Def-Art noun|button .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	here are (.) see ?
+%mor:	adv|here aux|be-Fin-Ind-Pres-P3 verb|see-Part-S ?
+%gra:	1|3|ADVMOD 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*CHI:	Cha(tty)z_Baby brother .
+%mor:	noun|ChattyzBaby noun|brother .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	I hungry .
+%mor:	pron|I-Prs-Nom-S1 adj|hungry-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	no (.) I hungry .
+%mor:	intj|no pron|I-Prs-Nom-S1 adj|hungry-Pos-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	<he'd> [//] he cry .
+%mor:	pron|he-Prs-Nom-S3 verb|cry-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	she cried .
+%mor:	pron|she-Prs-Nom-S3 verb|cry-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	he cried .
+%mor:	pron|he-Prs-Nom-S3 verb|cry-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	he nice .
+%mor:	pron|he-Prs-Nom-S3 adj|nice-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	fall down .
+%mor:	verb|fall-Fin-Imp-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	he fall down .
+%mor:	pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Pres-S3 adv|down .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	he won't talk .
+%mor:	pron|he-Prs-Nom-S3 aux|will-Fin-S~part|not verb|talk-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx talk .
+%mor:	noun|talk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he mus(t) [?] talk .
+%mor:	pron|he-Prs-Nom-S3 aux|must-Fin-S verb|talk-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*CHI:	he mus(t) [?] (.) he mus(t) [?] xxx some more .
+%mor:	pron|he-Prs-Nom-S3 aux|must-Fin-S pron|he-Prs-Nom-S3 aux|must-Fin-S det|some-Def adj|more-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|4|AUX 3|6|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	need one (.) battery .
+%mor:	verb|need-Fin-Imp-S num|one noun|battery .
+%gra:	1|3|ROOT 2|3|NUMMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	he cries .
+%mor:	pron|he-Prs-Nom-S3 verb|cry-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	he won't work a(ny) more .
+%mor:	pron|he-Prs-Nom-S3 aux|will-Fin-S~part|not verb|work-Inf-S det|any-Def adj|more-Cmp-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	he [/] (.) he xxx (a)gain .
+%mor:	pron|he-Prs-Nom-S3 adv|again .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx you .
+%mor:	pron|you-Prs-Acc-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	aye dinner .
+%mor:	intj|aye noun|dinner .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	dinner .
+%mor:	noun|dinner .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	who .
+%mor:	pron|who-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yyy dis [: this] ?
+%mor:	pron|this-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dis [: this] spoon .
+%mor:	det|this-Def-Dem noun|spoon .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	here ?
+%mor:	adv|here ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	drink .
+%mor:	verb|drink-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he won't drink more .
+%mor:	pron|he-Prs-Nom-S3 aux|will-Fin-S~part|not verb|drink-Inf-S adj|more-Cmp-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	he want a pony Tony (.) pony yyy .
+%mor:	pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pony noun|Tony noun|pony .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|DET 4|6|COMPOUND 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+*CHI:	elastic .
+%mor:	noun|elastic .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I got ponytail .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1 noun|ponytail .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I lost my nose .
+%mor:	pron|I-Prs-Nom-S1 verb|lose-Fin-Ind-Past-S1 pron|my-Prs-Gen-S1 noun|nose .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	he xxx .
+%mor:	pron|he-Prs-Nom-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat [: that] (.) poor dollie .
+%mor:	det|that-Def-Dem adj|poor-Pos-S1 noun|dollie .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	he crying .
+%mor:	pron|he-Prs-Nom-S3 verb|cry-Ger-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT

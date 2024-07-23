@@ -1,0 +1,300 @@
+*CHI:	wan(t) Bobo .
+%mor:	verb|want-Fin-Imp-S noun|Bobo .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Bobo .
+%mor:	noun|Bobo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hi de [: there] .
+%mor:	intj|hi adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a skirt .
+%mor:	det|a-Ind-Art noun|skirt .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	dollie .
+%mor:	noun|dollie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hit .
+%mor:	verb|hit-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a yyy xxx .
+%mor:	det|a-Ind-Art .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eye .
+%mor:	noun|eye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a car .
+%mor:	det|a-Ind-Art noun|car .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a chair .
+%mor:	det|a-Ind-Art noun|chair .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a eye .
+%mor:	det|a-Ind-Art noun|eye .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	eye eye eye eye eye .
+%mor:	noun|eye noun|eye noun|eye noun|eye noun|eye .
+%gra:	1|5|COMPOUND 2|3|COMPOUND 3|5|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	boat .
+%mor:	noun|boat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nose .
+%mor:	noun|nose .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hm: .
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a eye yyy car .
+%mor:	det|a-Ind-Art noun|eye noun|car .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	more car .
+%mor:	adj|more-Cmp-S1 noun|car .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	a bike .
+%mor:	det|a-Ind-Art noun|bike .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a girl .
+%mor:	det|a-Ind-Art noun|girl .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a dog .
+%mor:	det|a-Ind-Art noun|dog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	ah (.) ba@b (.) ba@b (.) ba@b .
+%mor:	intj|ah intj|ba intj|ba noun|bene .
+%gra:	1|4|ROOT 2|1|DISCOURSE 3|4|DISCOURSE 4|1|PARATAXIS 5|1|PUNCT
+*CHI:	doggy .
+%mor:	noun|doggy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a baby .
+%mor:	det|a-Ind-Art noun|baby .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	hi (.) baby .
+%mor:	intj|hi noun|baby .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx baby .
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ice cream .
+%mor:	noun|ice noun|cream .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	ah (.) ah .
+%mor:	intj|ah intj|ah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	a key .
+%mor:	det|a-Ind-Art noun|key .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a kitty .
+%mor:	det|a-Ind-Art noun|kitty .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	my little kitty .
+%mor:	pron|my-Prs-Gen-S1 adj|little-Pos-S1 noun|kitty .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	kitty gone .
+%mor:	noun|kitty verb|go-Part-Past-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	mm a bubble .
+%mor:	intj|mm det|a-Ind-Art noun|bubble .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	a milk .
+%mor:	det|a-Ind-Art noun|milk .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a money .
+%mor:	det|a-Ind-Art noun|money .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a moon .
+%mor:	det|a-Ind-Art noun|moon .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a monkey .
+%mor:	det|a-Ind-Art noun|monkey .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a boat .
+%mor:	det|a-Ind-Art noun|boat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a girl Mummy .
+%mor:	det|a-Ind-Art noun|girl noun|mummy .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	a girl ?
+%mor:	det|a-Ind-Art noun|girl ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	girl girl ?
+%mor:	noun|girl noun|girl ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx girl xxx ?
+%mor:	noun|girl ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	girl dere [: there] ?
+%mor:	noun|girl adv|there ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	apple pie .
+%mor:	noun|apple noun|pie .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	right there (.) Mommy .
+%mor:	adv|right adv|there noun|Mommy .
+%gra:	1|2|ADVMOD 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	a Bobo .
+%mor:	det|a-Ind-Art noun|Bobo .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a blue budoo@c .
+%mor:	det|a-Ind-Art adj|blue-Pos-S1 noun|budoo .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Santie_Claus .
+%mor:	noun|SantieClaus .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a table .
+%mor:	det|a-Ind-Art noun|table .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a bunny .
+%mor:	det|a-Ind-Art noun|bunny .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a bunny dere [: there] (.) dere [: there] .
+%mor:	det|a-Ind-Art noun|bunny adv|there adv|there .
+%gra:	1|2|DET 2|4|ROOT 3|2|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CHI:	teddy_bear bear ?
+%mor:	noun|teddybear noun|bear ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Christmas tree ?
+%mor:	noun|Christmas noun|tree ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx toy .
+%mor:	noun|toy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a doggy .
+%mor:	det|a-Ind-Art noun|doggy .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	here he is .
+%mor:	adv|here pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|ROOT 2|1|NSUBJ 3|1|COP 4|1|PUNCT
+*CHI:	tiger .
+%mor:	noun|tiger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx ride .
+%mor:	noun|ride .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	seesaw .
+%mor:	noun|seesaw .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a xxx door .
+%mor:	det|a-Ind-Art noun|door .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	door .
+%mor:	noun|door .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	an orange .
+%mor:	det|a-Ind-Art adj|orange-Pos-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a light .
+%mor:	det|a-Ind-Art noun|light .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	that light (.) Mommy .
+%mor:	det|that-Def-Dem noun|light noun|Mommy .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx yyy kiki@c .
+%mor:	noun|kiki .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	horsie .
+%mor:	noun|horsie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that horsie .
+%mor:	det|that-Def-Dem noun|horsie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	that's horsie .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|horsie .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	I ride horsie .
+%mor:	pron|I-Prs-Nom-S1 verb|ride-Fin-Ind-Pres-S1 noun|horsie .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I ride he .
+%mor:	pron|I-Prs-Nom-S1 verb|ride-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	horsie (.) horsie .
+%mor:	noun|horsie noun|horsie .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	ride horsie .
+%mor:	noun|ride noun|horsie .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*CHI:	nice doggy .
+%mor:	adj|nice-Pos-S1 noun|doggy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mummy .
+%mor:	noun|mummy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	doctor .
+%mor:	noun|doctor .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Dr Marx ?
+%mor:	noun|Dr noun|Marx ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	duckie .
+%mor:	noun|duckie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mine .
+%mor:	pron|mine-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat [: that] .
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	see dat [: that] .
+%mor:	verb|see-Fin-Imp-S pron|that-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	see there .
+%mor:	verb|see-Fin-Imp-S adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	see there (.) Mommy .
+%mor:	verb|see-Fin-Imp-S pron|there-Prs-Gen-S3 noun|Mommy .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	my hand .
+%mor:	pron|my-Prs-Gen-S1 noun|hand .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx more horsie .
+%mor:	adj|more-Cmp-S1 noun|horsie .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	monkey .
+%mor:	noun|monkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx donkey .
+%mor:	noun|donkey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dere [: there] .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kiku@c ?
+%mor:	noun|kiku ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kiku@c Mommy ?
+%mor:	noun|kiku noun|Mommy ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bird ?
+%mor:	noun|bird ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a bird (.) Mummy ?
+%mor:	det|a-Ind-Art noun|bird noun|mummy ?
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	a duckie .
+%mor:	det|a-Ind-Art noun|duckie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a da@b da@b da@b da@b da@b da@b da@b da@b da@b xxx .
+%mor:	x|a x|da x|da x|da x|da x|da x|da x|da x|da x|da .
+%gra:	1|10|ROOT 2|1|FLAT 3|2|FLAT 4|2|FLAT 5|2|FLAT 6|2|FLAT 7|2|FLAT 8|2|FLAT 9|2|FLAT 10|2|FLAT 11|1|PUNCT
+*CHI:	dadada@b (.) dadada@b .
+%mor:	noun|dadada noun|dadada .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT

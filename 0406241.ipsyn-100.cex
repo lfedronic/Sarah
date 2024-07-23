@@ -1,0 +1,242 @@
+ipsyn +t*CHI +o -leng
+Fri Jul 19 14:39:05 2024
+ipsyn (16-Jan-2024) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+    and those speakers' ONLY dependent tiers matching: %MOR:; %GRA:;
+****************************************
+From file <0406241.cha>
+
+*** Speaker: *CHI:
+0406241.cha	eng|Brown|CHI|4;06.24|female|||Target_Child|||
+
+Rule: N1 - Noun
+  Score: 0
+
+Rule: N2 - Pronoun
+  Score: 0
+
+Rule: N3 - Modifier
+        File "0406241.cha": line 37.
+    Point1: adj|good-Pos-S1
+        File "0406241.cha": line 133.
+    Point2: adj|black-Pos-S1
+  Score: 2
+
+Rule: N4 - Modifier + N
+  Score: 0
+
+Rule: N5 - Article before noun
+  Score: 0
+
+Rule: N6 - Two-word NP after verb or prep
+  Score: 0
+
+Rule: N7 - Plural suffix
+  Score: 0
+
+Rule: N8 - Two-word NP before verb
+  Score: 0
+
+Rule: N9 - Three-word NP
+  Score: 0
+
+Rule: N10 - Adverb + head
+        File "0406241.cha": line 853.
+    Point1: adv|no adj|more-Cmp-S1
+  Score: 1
+
+Rule: N11 - Other bound morpheme, N or adj
+        File "0406241.cha": line 37.
+    Point1: adj|good-Pos-S1
+        File "0406241.cha": line 133.
+    Point2: adj|black-Pos-S1
+  Score: 2
+
+Rule: V1 - Verb
+        File "0406241.cha": line 30.
+    Point1: ~aux|be-Fin-Ind-Pres-S3
+        File "0406241.cha": line 37.
+    Point2: aux|can-Fin-S
+  Score: 2
+
+Rule: V2 - Preposition
+  Score: 0
+
+Rule: V3 - Prep + N
+  Score: 0
+
+Rule: V4 - Copula linking two Ns
+  Score: 0
+
+Rule: V5 - Modal + V
+    ADD: score: 2 from V6 V13
+  Score: 2
+
+Rule: V6 - Auxiliary BE, DO, HAVE
+        File "0406241.cha": line 80.
+    Point1: aux|do-Fin-Ind-Pres-S3 ~part|not
+        File "0406241.cha": line 114.
+    Point2: aux|be-Fin-Ind-Pres-S2 ~part|not
+    ADD: score: 1 from V13
+  Score: 2
+
+Rule: V7 - Progressive -ing
+  Score: 0
+
+Rule: V8 - Adverb
+        File "0406241.cha": line 30.
+    Point1: adv|here~aux|be-Fin-Ind-Pres-S3
+        File "0406241.cha": line 86.
+    Point2: adv|just
+    ADD: score: 3 from N10 V8
+  Score: 2
+
+Rule: V9 - Modal + V
+  Score: 0
+
+Rule: V10 - Third-person sing. pres.
+  Score: 0
+
+Rule: V11 - Past tense modal
+  Score: 0
+
+Rule: V12 - Regular past tense
+  Score: 0
+
+Rule: V13 - Past tense auxiliary
+        File "0406241.cha": line 698.
+    Point1: aux|do-Fin-Ind-Past-S2
+  Score: 1
+
+Rule: V14 - Adverb + V
+        File "0406241.cha": line 423.
+    Point1: ~aux|be-Fin-Ind-Pres-S1 adv|gonna
+        File "0406241.cha": line 853.
+    Point2: adv|no adj|more-Cmp-S1
+  Score: 2
+
+Rule: V151 - Ellipsis with copula
+  Score: 0
+
+Rule: V152 - Ellipsis with auxiliary
+  Score: 0
+
+Rule: V153 - Ellipsis with modal
+  Score: 0
+
+Rule: V16 - Past tense copula
+  Score: 0
+
+Rule: V17 - Other bound morpheme on V
+  Score: 0
+
+Rule: Q1 - Intonation
+    ADD: score: 2 from Q6
+  Score: 2
+
+Rule: Q2 - Routine
+    ADD: score: 2 from Q6
+  Score: 2
+
+Rule: Q3 - Simple Negation
+  Score: 0
+
+Rule: Q4 - Wh-question
+    ADD: score: 2 from Q6
+  Score: 2
+
+Rule: Q5 - Neg. between subject + verb
+  Score: 0
+
+Rule: Q6 - Wh-Q w/ inverted modal
+        File "0406241.cha": line 30.
+    Point1: adv|here~aux|be-Fin-Ind-Pres-S3
+        File "0406241.cha": line 80.
+    Point2: aux|do-Fin-Ind-Pres-S3~part|not
+  Score: 2
+
+Rule: Q7 - Negation of aux/modal/copula
+  Score: 0
+
+Rule: Q8 - Yes/no Q w/ inverted aux/modal/copula
+  Score: 0
+
+Rule: Q9 - Why, when, which, whose
+  Score: 0
+
+Rule: Q10 - Tag question
+  Score: 0
+
+Rule: Q11 - Q w/ negation + inversion
+  Score: 0
+
+Rule: S1 - Two words
+        File "0406241.cha": line 21.
+    Point1: det|some-Def noun|earring-Plur
+        File "0406241.cha": line 27.
+    Point2: sconj|because pron|I-Prs-Nom-S1
+  Score: 2
+
+Rule: S2 - Subject-verb
+  Score: 0
+
+Rule: S3 - Verb-object
+  Score: 0
+
+Rule: S4 - Subject-verb-object
+  Score: 0
+
+Rule: S5 - Conjunction (any)
+  Score: 0
+
+Rule: S6 - Any two Vs
+  Score: 0
+
+Rule: S7 - Conjoined phrases
+  Score: 0
+
+Rule: S8 - Infinitive
+  Score: 0
+
+Rule: S9 - Let/Make/Help/Watch
+  Score: 0
+
+Rule: S10 - Subordinating conj.
+  Score: 0
+
+Rule: S11 - Mental state V
+  Score: 0
+
+Rule: S12 - Conjoined clauses
+  Score: 0
+
+Rule: S13 - If or wh-clause
+  Score: 0
+
+Rule: S14 - Bitransitive predicate
+  Score: 0
+
+Rule: S15 - Three or more (nonaux) Vs
+  Score: 0
+
+Rule: S16 - Relative clause
+  Score: 0
+
+Rule: S17 - Infinitive clause: new subject
+  Score: 0
+
+Rule: S18 - Gerund
+  Score: 0
+
+Rule: S19 - Fronted or center subord. clause
+  Score: 0
+
+Rule: S20 - Passive
+  Score: 0
+
+N = 5
+V = 11
+Q = 8
+S = 2
+
+Total = 26
